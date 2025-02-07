@@ -1,4 +1,4 @@
 Ini adalah README
 
 
-ini menambahkan di branch teman
+ini menambahkan berasal dari branch kita
